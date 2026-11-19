@@ -1,0 +1,6 @@
+# 模型权重太大，不进 git（换机器时按 README 说明放进 models/）
+models/
+outputs/*.pt
+outputs/*.log
+__pycache__/
+*.pyc
