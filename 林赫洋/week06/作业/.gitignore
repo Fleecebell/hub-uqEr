@@ -1,6 +1,5 @@
-# 模型权重太大，不进 git（换机器时按 README 说明放进 models/）
+# 模型权重太大（819MB），不进 git：换机器时按 说明.md 把三个模型放进 models/
 models/
-outputs/*.pt
-outputs/*.log
+outputs/
 __pycache__/
 *.pyc
